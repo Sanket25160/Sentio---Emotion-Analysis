@@ -2,6 +2,8 @@
 
 **AI-powered emotion analysis from text using Natural Language Processing and Machine Learning.**
 
+Live at: https://sanket25160-sentio---emotion-analysis-app-5yaemz.streamlit.app/
+
 Sentio is an NLP-based application that analyzes text and predicts the emotion expressed in it. The project uses **text preprocessing, Bag of Words (BoW), and Logistic Regression** for emotion classification.
 
 ## 🚀 Features
